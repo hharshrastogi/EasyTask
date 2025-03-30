@@ -37,7 +37,7 @@ const MarketingPage = () =>{
                         NO 1 Task Management
                 </div>
                 <h1 className="text-3xl md:text-6xl text-center text-neutral-800 mb-6">
-                    Taskify helps teams move.
+                    TaskApp helps teams move.
                 </h1>
                 <div className="text-3xl md:text-6xl bg-gradient-to-r from-fuchsia-600 to bg-pink-600
                 text-white pd-2 rounded-md w-fit px-2 p-2">
